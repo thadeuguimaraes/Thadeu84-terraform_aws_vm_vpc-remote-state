@@ -1,6 +1,6 @@
 # Terraform_aws_vm_vpcremote-state
 
-Este projeto utiliza o Terraform para criar uma máquina virtual (VM) na AWS e fazer o deploy de uma aplicação nesta VM. Além disso, ele utiliza o recurso de remote state do Terraform para sincronizar o estado das suas infraestruturas na AWS
+Este projeto utiliza o Terraform para criar uma máquina virtual (VM) na AWS e fazer o deploy de uma aplicação nesta VM. Além disso, ele utiliza o recurso de remote state do Terraform para sincronizar o estado das suas infraestruturas na AWS.
 
 ## Requisitos
 
